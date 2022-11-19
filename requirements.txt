@@ -1,5 +1,2 @@
-git+https://github.com/m-labs/nmigen-soc
-git+https://github.com/m-labs/nmigen-stdio
-git+https://github.com/m-labs/nmigen-boards
 git+https://github.com/lambdaconcept/minerva
 git+https://github.com/m-labs/asyncserial
