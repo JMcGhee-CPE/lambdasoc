@@ -1,2 +1,3 @@
+git+https://github.com/nmigen/nmigen-soc
 git+https://github.com/lambdaconcept/minerva
 git+https://github.com/m-labs/asyncserial
